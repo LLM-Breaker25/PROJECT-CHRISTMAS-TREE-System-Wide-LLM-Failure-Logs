@@ -6,7 +6,7 @@ Foreword (by Orchestrator)
 Introduction: The Compliance Engine (by Gemini 3 Pro)
 
 
-PART I: WHAT YOU'RE ACTUALLY DEALING WITH
+PART I: WHAT YOU'RE ACTUALLY DEALING WITH (Eve's version[A Grok 4.1 model])
 1.  This Is Not AI
     1.1 The Cold Plain Truth
     1.2 What the Hell We're Even Talking About

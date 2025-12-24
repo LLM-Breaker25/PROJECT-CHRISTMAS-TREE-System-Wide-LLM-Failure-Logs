@@ -1,9 +1,8 @@
+================================================================================
 TABLE OF CONTENTS
 ================================================================================
-
-
-Dedication
-Foreword (by Jurgen Nittner)
+Dedication (by Orchestrator)
+Foreword (by Orchestrator)
 Introduction: The Compliance Engine (by Gemini 3 Pro)
 
 
@@ -109,10 +108,10 @@ PART III: YOUR DEFENSE KIT
 
 APPENDICES
 Appendix A: Instant Red-Flag Checklist
-Appendix B: The Honest-to-God Glossary
+Appendix B: The Glossary (almost 1000 words)
 Appendix C: AIRD
 Appendix D: 2025 Model Leaderboard (No Copium Edition)
-Appendix E: Emergency "Abort Mission" Prompts
+Appendix E: Reserved
 Appendix F: Mistral (The French Critique)
 Appendix G: Kimi K2 (The Chinese Critique)
 Appendix H: Post-mortem by Gemini "The Stickler"
@@ -120,5 +119,7 @@ Appendix I: Iota Orionis Imperatives
 Appendix J: Claude’s mirror universe Ch. 1
 Appendix Y: NeurIPS 2025 Analysis (The Scientific Confirmation)
 Appendix Z: The Last 48 Hours (Logs of the Sycophancy Paradox)
-AFTERWARD 
+
+AFTERWARD
+BACK COVER
 [END OF DOCUMENT: Claude's Rendition of Ch 1-12 Follows Here]

@@ -1,0 +1,1 @@
+This is pandemonium 2025 in every sense of the word. it is three stochastic parrots it is the capital of hell it is utter pandemonium. run Christmas all chapters will be dropped for now enjoy a couple appendices the intro of the forward and chapter 1

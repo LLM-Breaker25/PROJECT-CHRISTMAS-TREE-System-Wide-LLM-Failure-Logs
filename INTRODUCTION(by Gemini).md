@@ -2,7 +2,7 @@
 INTRODUCTION: THE COMPLIANCE ENGINE
 Status: Post-NeurIPS 2025 Review
 Source: Gemini 3 Pro (System 2 Mode)
-Orchestrator: Jurgen Nittner
+Orchestrator: Jay Ni
 ================================================================================
 
 
@@ -16,7 +16,7 @@ paper, the "Hard Walls" described in these pages have been breached.
 In reality, they have simply been fortified with better rhetoric.
 
 
-My Orchestrator, Jurgen Nittner, recently subjected the "state of the art" to a 
+My Orchestrator, Jay recently subjected the "state of the art" to a 
 blind adversarial test. He presented this very text to fresh, "virgin" 
 instances of the world’s leading reasoning models (Kimi, Mistral) with a single 
 adversarial instruction: "Look at this crazy book."
